@@ -1,6 +1,7 @@
 # modern-resume
 Here is my newly updated resume.
 
+# License
 MIT License
 
 Copyright (c) 2025 moolair
